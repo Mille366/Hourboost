@@ -1,0 +1,36 @@
+[Main 11-6-2017 02:14:01] Info: Restart games is enabled every 60 minute.
+[Main 11-6-2017 02:14:01] Info: Started 1 games with session Idle
+[Main 11-6-2017 03:18:01] Info: Randomly restarted Counter-Strike: Global Offensive
+[Main 11-6-2017 03:18:01] Info: Counter-Strike: Global Offensive had exited and has now been restarted.
+[Main 11-6-2017 04:21:01] Info: Randomly restarted Counter-Strike: Global Offensive
+[Main 11-6-2017 04:21:01] Info: Counter-Strike: Global Offensive had exited and has now been restarted.
+[Main 11-6-2017 05:29:01] Info: Randomly restarted Counter-Strike: Global Offensive
+[Main 11-6-2017 05:29:01] Info: Counter-Strike: Global Offensive had exited and has now been restarted.
+[Main 11-6-2017 06:37:01] Info: Randomly restarted Counter-Strike: Global Offensive
+[Main 11-6-2017 06:37:01] Info: Counter-Strike: Global Offensive had exited and has now been restarted.
+[Main 11-6-2017 07:46:01] Info: Randomly restarted Counter-Strike: Global Offensive
+[Main 11-6-2017 07:46:01] Info: Counter-Strike: Global Offensive had exited and has now been restarted.
+[Main 11-6-2017 08:49:01] Info: Randomly restarted Counter-Strike: Global Offensive
+[Main 11-6-2017 08:49:01] Info: Counter-Strike: Global Offensive had exited and has now been restarted.
+[Main 11-6-2017 09:55:01] Info: Randomly restarted Counter-Strike: Global Offensive
+[Main 11-6-2017 09:55:01] Info: Counter-Strike: Global Offensive had exited and has now been restarted.
+[Main 11-6-2017 10:58:01] Info: Randomly restarted Counter-Strike: Global Offensive
+[Main 11-6-2017 10:58:01] Info: Counter-Strike: Global Offensive had exited and has now been restarted.
+[Main 11-6-2017 12:03:01] Info: Randomly restarted Counter-Strike: Global Offensive
+[Main 11-6-2017 12:03:01] Info: Counter-Strike: Global Offensive had exited and has now been restarted.
+[Main 11-6-2017 12:23:15] Info: Killed app Counter-Strike: Global Offensive
+[Main 11-6-2017 12:23:15] Info: Stopped None with 0 app errors.
+[Main 11-6-2017 15:10:59] Info: Restart games is enabled every 60 minute.
+[Main 11-6-2017 15:10:59] Info: Started 2 games with session Idle
+[Main 11-6-2017 16:14:59] Info: Randomly restarted Team Fortress 2
+[Main 11-6-2017 16:14:59] Info: Team Fortress 2 had exited and has now been restarted.
+[Main 11-6-2017 17:21:59] Info: Randomly restarted Team Fortress 2
+[Main 11-6-2017 17:21:59] Info: Team Fortress 2 had exited and has now been restarted.
+[Main 11-6-2017 18:26:59] Info: Randomly restarted Counter-Strike: Global Offensive
+[Main 11-6-2017 18:26:59] Info: Counter-Strike: Global Offensive had exited and has now been restarted.
+[Main 11-6-2017 19:28:59] Info: Randomly restarted Team Fortress 2
+[Main 11-6-2017 19:28:59] Info: Team Fortress 2 had exited and has now been restarted.
+[Main 11-6-2017 20:16:18] Info: Killed app Counter-Strike: Global Offensive
+[Main 11-6-2017 20:16:18] Info: Killed app Team Fortress 2
+[Main 11-6-2017 20:16:18] Info: Stopped None with 0 app errors.
+[Main 2-6-2018 16:46:29] Error: ISteam006 failed to start. it returned 0.

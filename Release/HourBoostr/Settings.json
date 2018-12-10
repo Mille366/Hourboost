@@ -1,0 +1,21 @@
+{
+  "CheckForUpdates": true,
+  "Accounts": [
+    {
+      "Details": {
+        "Username": "LesbianCom",
+        "Password": "noccopersika",
+        "LoginKey": "6zmwB54Mc7xpYjr2Rno"
+      },
+      "ShowOnlineStatus": true,
+      "ConnectToSteamCommunity": true,
+      "RestartGamesEveryThreeHours": true,
+      "JoinSteamGroup": true,
+      "IgnoreAccount": false,
+      "ChatResponse": "",
+      "Games": [
+        730
+      ]
+    }
+  ]
+}
